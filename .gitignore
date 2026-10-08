@@ -1,0 +1,8 @@
+
+.env
+.aws/
+*.zip
+*.pem
+*.key
+__pycache__/
+.venv/
