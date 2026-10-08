@@ -3,4 +3,4 @@
 - WSL2 + Ubuntu: listo
 - GitHub con SSH: listo
 - AWS: cuenta, MFA, usuario de trabajo; verificación de cuenta en curso (CloudShell pendiente)
-- Problemas que tuve: virtualización en BIOS, rama master vs main, CloudShell bloqueado
+- Problemas que tuve: CloudShell bloqueado
